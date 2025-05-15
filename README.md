@@ -115,8 +115,6 @@ airline-satisfaction-prediction/
 ├── requirements.txt (R package list)
 ├── LICENSE
 ├── README.md
-└── assets/
-    └── model_comparison.png
 </pre>
 
 ---
